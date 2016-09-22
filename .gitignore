@@ -87,3 +87,8 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# dont upload data for learning
+train.csv
+test.csv
+
